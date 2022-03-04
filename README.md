@@ -2,6 +2,9 @@
 * Spring boot application which uses the Java 11.
 * To run this just run the uploaded `jetdevs-0.0.1-SNAPSHOT.jar`.
 * To import project clone this repository then just import this project as `Existing Maven Project`.
+* Find the demo video in `demo/Demo.mp4`.
+* Find demo screenshots in `demo/Postman Screenshots`.
+
 ## Service with Spring boot for the below problems.
 ### 1. Remove invalid brackets from strings
 ```
